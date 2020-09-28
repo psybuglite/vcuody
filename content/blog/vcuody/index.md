@@ -1,9 +1,9 @@
 ---
-title: VCUODY
+title: Welcome
 date: 2019-11-11
 tags:
-- vaporwave
-description: I think the most trendy thing about this site is its vibrant colors.
+- hello
+description: This is a sample of what I'm working on.
 
 ---
 Welcome to Vcuody's blog.  
